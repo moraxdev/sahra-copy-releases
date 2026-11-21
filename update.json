@@ -1,14 +1,14 @@
 {
   "windows": {
-    "version": "0.4.2",
-    "build": 6,
-    "notes": "Copy window cleaned up: nothing spills outside its box, slimmer progress bar with one decimal below 10%, smoother speed graph, speed never shown above 100% of max.",
+    "version": "0.4.3",
+    "build": 7,
+    "notes": "Verification now shows its own progress (cyan bar), speed and time left instead of sitting at 100%. Fixes the strange speed number after copying and the queue saying Scanning. Includes the copy window clean-up from 0.4.2.",
     "force": false,
     "minBuild": 0,
     "installer": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.4.2.exe",
-      "signature": "74a06c9f69cb9b4b54fcad3a7ee6d218cc5335edcc540146da82a0f490415e923dfbf5256b33c05d416a1d7840c2209d2ed98dc1a6b45497811b743bb7b90d08",
-      "size": 4153964
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.4.3.exe",
+      "signature": "e542de49a7f5095d455234d1e2f6e6a33fd62202e1dee3cbdbd3c862a185ae2f4d840743e3784bae25e675ac5d9d313e30ee40aa45e5f1c30aaa31a1fe5d900b",
+      "size": 4154791
     }
   }
 }
