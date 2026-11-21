@@ -1,14 +1,14 @@
 {
   "windows": {
-    "version": "0.3.0",
-    "build": 3,
-    "notes": "Copy locked files: when a file is open in another program, one click (and an administrator prompt) copies it from a Windows snapshot.",
+    "version": "0.4.0",
+    "build": 4,
+    "notes": "Ctrl+V in Explorer now pastes with Sahra Copy. New compact copy window (expandable) with an animated progress bar. Shows the most your drives can do and how close the copy is to it. Tray, start with Windows, notifications, and sleep or shut down when done.",
     "force": false,
     "minBuild": 0,
     "installer": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.3.0.exe",
-      "signature": "cf5bff7959722666b324ae9d4b6534b57fdd6bf2c70ddce38ee3d846cd95f966dbe42cdf87793bd8dd55cdb33a5b68ac87d85c0cb351e4ac0893a58653c56b06",
-      "size": 3925069
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.4.0.exe",
+      "signature": "a893866bc821ae1cf8f25df446783398662deb99c15ad4cf0f192f060d3dde5682fa2010ed825bf141b2cbdd00b99d993d2e57d932adf075258924e1eb40a205",
+      "size": 4152636
     }
   }
 }
