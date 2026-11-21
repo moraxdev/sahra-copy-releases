@@ -1,14 +1,14 @@
 {
   "windows": {
-    "version": "0.4.1",
-    "build": 5,
-    "notes": "Update check now also works where a security program blocks the app's own connection, and says why when it cannot check. Includes everything in 0.4.0: Ctrl+V takeover in Explorer, compact copy window, drive speed limits.",
+    "version": "0.4.2",
+    "build": 6,
+    "notes": "Copy window cleaned up: nothing spills outside its box, slimmer progress bar with one decimal below 10%, smoother speed graph, speed never shown above 100% of max.",
     "force": false,
     "minBuild": 0,
     "installer": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.4.1.exe",
-      "signature": "9f625c3aa7f331a63d8e34e4e9e0b4987831ff4869677c0670c9a179d13b4c53e0bce3adbeedffd13f819bdf7f4d2567ad239fa82483dbcec871a6770dfd540c",
-      "size": 4154247
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.4.2.exe",
+      "signature": "74a06c9f69cb9b4b54fcad3a7ee6d218cc5335edcc540146da82a0f490415e923dfbf5256b33c05d416a1d7840c2209d2ed98dc1a6b45497811b743bb7b90d08",
+      "size": 4153964
     }
   }
 }
