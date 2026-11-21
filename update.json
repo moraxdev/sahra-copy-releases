@@ -1,14 +1,14 @@
 {
   "windows": {
-    "version": "0.2.0",
-    "build": 2,
-    "notes": "Explorer menu: Paste with Sahra Copy and Add to Sahra Copy. Update check every 10 minutes while open. Waits for a lost drive or network and retries. Leave-out patterns and folders-only copy. Export reports (HTML/CSV).",
+    "version": "0.3.0",
+    "build": 3,
+    "notes": "Copy locked files: when a file is open in another program, one click (and an administrator prompt) copies it from a Windows snapshot.",
     "force": false,
     "minBuild": 0,
     "installer": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.2.0.exe",
-      "signature": "58def341f46a96b4b213955d83a49dee0a6747e1320f72c46a8f8341ff53f1f92420c914ff7e332842c4f5ca741b43ee228a1054f685d13fada70c5c4503c503",
-      "size": 3910600
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.3.0.exe",
+      "signature": "cf5bff7959722666b324ae9d4b6534b57fdd6bf2c70ddce38ee3d846cd95f966dbe42cdf87793bd8dd55cdb33a5b68ac87d85c0cb351e4ac0893a58653c56b06",
+      "size": 3925069
     }
   }
 }
