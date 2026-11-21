@@ -1,0 +1,14 @@
+{
+  "windows": {
+    "version": "0.1.0",
+    "build": 1,
+    "notes": "First release: fast verified copy and move, queue, conflicts, retry, history, benchmark.",
+    "force": false,
+    "minBuild": 0,
+    "installer": {
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.1.0.exe",
+      "signature": "d1abaaa9b97a3561216a7edb5a61d95cb67af4a55c57bbd611aaa430cfe63bbc5cf60df6409f65d12cdfc54456505052312f2280012d736fa119a8e8f7510808",
+      "size": 3892390
+    }
+  }
+}
