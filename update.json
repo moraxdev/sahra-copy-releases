@@ -1,14 +1,14 @@
 {
   "windows": {
-    "version": "0.1.0",
-    "build": 1,
-    "notes": "First release: fast verified copy and move, queue, conflicts, retry, history, benchmark.",
+    "version": "0.2.0",
+    "build": 2,
+    "notes": "Explorer menu: Paste with Sahra Copy and Add to Sahra Copy. Update check every 10 minutes while open. Waits for a lost drive or network and retries. Leave-out patterns and folders-only copy. Export reports (HTML/CSV).",
     "force": false,
     "minBuild": 0,
     "installer": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.1.0.exe",
-      "signature": "d1abaaa9b97a3561216a7edb5a61d95cb67af4a55c57bbd611aaa430cfe63bbc5cf60df6409f65d12cdfc54456505052312f2280012d736fa119a8e8f7510808",
-      "size": 3892390
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.2.0.exe",
+      "signature": "58def341f46a96b4b213955d83a49dee0a6747e1320f72c46a8f8341ff53f1f92420c914ff7e332842c4f5ca741b43ee228a1054f685d13fada70c5c4503c503",
+      "size": 3910600
     }
   }
 }
