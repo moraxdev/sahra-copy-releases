@@ -1,14 +1,14 @@
 {
   "windows": {
-    "version": "0.4.4",
-    "build": 8,
-    "notes": "Verify is now a tick box, off by default; tick it in New copy for the copies you want checked. Includes 0.4.3: verification shows its own progress, speed and time left.",
+    "version": "0.5.0",
+    "build": 9,
+    "notes": "New look: Night Glass design, matching Sahra Hub and PMO Toolkit.",
     "force": false,
     "minBuild": 0,
     "installer": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.4.4.exe",
-      "signature": "1240bc5ecf36509dc6d91c40896f0e4dbb1aab2a4494c6bb0cc41a3e158a04c6dfd7faa56148741453d3f0b9fdca8b2ff6143dd7d6747bfab53093062fb5d00d",
-      "size": 4154981
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.5.0.exe",
+      "signature": "7d429c045c195c1969da987d5df434c5bdda1800a81454ebdfbb0c87c863459622d82bef2f0fd35f51d3ca4de57fabc3d2fa48e249b20e32109bf965a0b7ef0d",
+      "size": 3702018
     }
   }
 }
