@@ -1,14 +1,14 @@
 {
   "windows": {
-    "version": "0.5.0",
-    "build": 9,
-    "notes": "New look: Night Glass design, matching Sahra Hub and PMO Toolkit.",
+    "version": "0.5.1",
+    "build": 10,
+    "notes": "New app icon.",
     "force": false,
     "minBuild": 0,
     "installer": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.5.0.exe",
-      "signature": "7d429c045c195c1969da987d5df434c5bdda1800a81454ebdfbb0c87c863459622d82bef2f0fd35f51d3ca4de57fabc3d2fa48e249b20e32109bf965a0b7ef0d",
-      "size": 3702018
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-copy-releases/main/installers/SahraCopy-Setup-0.5.1.exe",
+      "signature": "33366e26476e05c7624cf36487972fb0b03e58292b441e7f944b411dd8a54c19993363915e5d95d4a103bc5f607f6cfe66aaffb2f8ac3b8483d9323f4dc0460c",
+      "size": 3824270
     }
   }
 }
